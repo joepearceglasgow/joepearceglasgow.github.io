@@ -1,5 +1,4 @@
 name: Joe Pearce
 markdown: kramdown
 theme: jekyll-theme-slate
-baseurl: ""
 permalink: /blog/:year/:month/:day/:title
