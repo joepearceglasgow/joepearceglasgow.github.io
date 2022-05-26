@@ -1,6 +1,8 @@
+---
 layout: page
 title: "Resources"
-permalink: /https://joepearceglasgow.github.io/Resources/
+permalink: /https://joepearceglasgow.github.io/resources/
+---
 <html>
 <body>
 <h1>Resources</h1>
