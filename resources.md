@@ -2,7 +2,7 @@
 
 layout: page
 title: "Resources"
-permalink: /URL-PATH/
+permalink: /https://joepearceglasgow.github.io/resources/
 <html>
 <body>
 <h1>Resources</h1>
